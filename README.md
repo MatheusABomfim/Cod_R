@@ -26,4 +26,4 @@ This folder is dedicated to my studies on the use of **R** for scientific analys
 Feel free to explore the contents and contact me if you have any questions or would like to collaborate! 😊
 
 📧 **Email:** matheusazevedo98@gmail.com  
-🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/matheus-azevedo-bomfim/)  
+🔗 **LinkedIn:** [My Profile](https://www.linkedin.com/in/matheus-azevedo-bomfim/)  
