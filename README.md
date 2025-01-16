@@ -8,6 +8,8 @@ Welcome to the repository that includes analyses, projects, and studies develope
 This folder contains the analyses carried out during 2024 and 2025 as part of my master's program. It includes:
 - Studies related to my main project (Application of Machine Learning models to prognosis Patients Living with HTLV).
 - Analyses conducted during the supervision process of the undergraduate student Nicholas from LIPa (Laboratory of Immunobiologicals and Immunopathology), from University of Pernambuco (UPE).
+- For those interested in developing allele frequency studies, I recommend exploring the codes in the directory: ‘Analyses 2024-2025 LIPa/ENTPD1_HTLV_Mestrado/codes/Codes_OK’.
+Where I cleaned up the codes and annotated them accordingly, it is worth emphasising that I used the codes iteratively to facilitate the process of re-using the code.
 
 ---
 
